@@ -1,0 +1,9 @@
+-1 Datum dd/mm/yy
+-2 Vreme
+0 pocetak pocetak
+1 kraj kraj
+2 datum datum
+3 nastavnik nastavnik
+4 grupa grupa
+5 predmet predmet
+6 prostorija prostorija
