@@ -1,0 +1,9 @@
+-1 Datum yyyy-MM-dd
+-2 Vreme HH:mm-HH:mm
+0 Predmet additionalData
+1 Tip additionalData
+2 Nastavnik additionalData
+3 Grupe additionalData
+4 Dan dan
+5 Termin pocetak
+6 Učionica prostorija

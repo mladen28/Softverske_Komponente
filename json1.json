@@ -1,0 +1,101 @@
+[
+    {
+        "Predmet":"Poslovne aplikacije",
+        "Tip":"V",
+        "Nastavnik":"Mijatovic Igor",
+        "Grupe":"101",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0\u00a0TUESDAY\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"11:15-13",
+        "U\u010dionica":"Raf04-(u)"
+    },
+    {
+        "Predmet":"Uvod u programiranje",
+        "Tip":"D",
+        "Nastavnik":"Brnabic Mateja",
+        "Grupe":"101",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0MONDAY\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"13:15-15",
+        "U\u010dionica":"Rg07-(u)"
+    },
+    {
+        "Predmet":"Uvod u programiranje",
+        "Tip":"V",
+        "Nastavnik":"Tomic Milan",
+        "Grupe":"101",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0\u00a0TUESDAY\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"13:15-15",
+        "U\u010dionica":"Raf02-(u)"
+    },
+    {
+        "Predmet":"Diskretne strukture",
+        "Tip":"V",
+        "Nastavnik":"Jeremic Adrijana",
+        "Grupe":"101, 102, 103",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0\u00a0TUESDAY\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"17:15-20",
+        "U\u010dionica":"Raf21-(a)"
+    },
+    {
+        "Predmet":"Diskretne strukture",
+        "Tip":"P",
+        "Nastavnik":"Jovanovic Irena",
+        "Grupe":"101, 102, 103",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0WEDNESDAY\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"16:15-18",
+        "U\u010dionica":"Raf06-(a)"
+    },
+    {
+        "Predmet":"Engleski 1",
+        "Tip":"P",
+        "Nastavnik":"Cuk Bojana",
+        "Grupe":"101, 102, 103",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0\u00a0TUESDAY\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"15:15-17",
+        "U\u010dionica":"Raf21-(a)"
+    },
+    {
+        "Predmet":"Linearna algebra i analiticka geometrija",
+        "Tip":"P",
+        "Nastavnik":"Jovanovic Jelena",
+        "Grupe":"101, 102, 103",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0WEDNESDAY\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"18:15-21",
+        "U\u010dionica":"Raf20-(a)"
+    },
+    {
+        "Predmet":"Linearna algebra i analiticka geometrija",
+        "Tip":"V",
+        "Nastavnik":"Jovanovic Jelena",
+        "Grupe":"101, 102, 103",
+        "Dan":"\u00a0\u00a0\u00a0THURSDAY\u00a0\u00a0\u00a0",
+        "Termin":"18:15-21",
+        "U\u010dionica":"Raf20-(a)"
+    },
+    {
+        "Predmet":"Uvod u programiranje",
+        "Tip":"P",
+        "Nastavnik":"Urosevic Dragan",
+        "Grupe":"101, 102, 103",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0MONDAY\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"11:15-13",
+        "U\u010dionica":"Kolarac2-(a)"
+    },
+    {
+        "Predmet":"Poslovne aplikacije",
+        "Tip":"V",
+        "Nastavnik":"Mijatovic Igor",
+        "Grupe":"102",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0MONDAY\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"13:15-15",
+        "U\u010dionica":"Raf04-(u)"
+    },
+    {
+        "Predmet":"Uvod u programiranje",
+        "Tip":"D",
+        "Nastavnik":"Brnabic Mateja",
+        "Grupe":"102",
+        "Dan":"\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0MONDAY\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0",
+        "Termin":"15:15-17",
+        "U\u010dionica":"Rg07-(u)"
+    }
+]
